@@ -1,12 +1,7 @@
 {
   "tasks": [
     {
-      "id": 2,
-      "label": "Learn Spring",
-      "completed": false
-    },
-    {
-      "label": "Learn JAVA",
+      "label": "Learn JA",
       "completed": false,
       "id": 3
     },
@@ -14,6 +9,11 @@
       "label": "learn Flutter",
       "completed": true,
       "id": 4
+    },
+    {
+      "label": "koliche",
+      "completed": false,
+      "id": 5
     }
   ]
 }
